@@ -7,3 +7,4 @@ This is Book Git Repository.
 4. Python Data Science Handbook (Jake VanderPlas)
 5. Python for Data Analysis (Wes McKinney-2nd-Edition)
 6. Learning Spark (Lightning-Fast Big Data Analysis)
+7.The Data Warehouse Toolkit (3rd-Edition - Kimball) - (Ralph Kimball, Margy Ross)
