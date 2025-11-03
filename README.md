@@ -9,3 +9,4 @@ This is Book Git Repository.
 6. Learning Spark (Lightning-Fast Big Data Analysis)
 7. The Data Warehouse Toolkit (3rd-Edition - Kimball) - (Ralph Kimball, Margy Ross)
 8. Data Engineering Design Patterns-2025-(Bartosz Konieczny)
+9.Kafka Definitive Guide Complete( NehaNarkhede, Gwen Shapira & Todd Palino)
