@@ -6,7 +6,7 @@ This is Book Git Repository.
 3. The Data Engineering Cook Book (Andreas Kretz)
 4. Python Data Science Handbook (Jake VanderPlas)
 5. Python for Data Analysis (Wes McKinney-2nd-Edition)
-6. Learning Spark (Lightning-Fast Big Data Analysis)<br>
+6. Learning Spark (Lightning-Fast Big Data Analysis)
 7. The Data Warehouse Toolkit (3rd-Edition - Kimball) - (Ralph Kimball, Margy Ross)
-8. Data Engineering Design Patterns-2025-(Bartosz Konieczny)</br>
-9.Kafka Definitive Guide Complete( NehaNarkhede, Gwen Shapira & Todd Palino)
+8. Data Engineering Design Patterns-2025-(Bartosz Konieczny)
+9. Kafka Definitive Guide Complete( NehaNarkhede, Gwen Shapira & Todd Palino)
