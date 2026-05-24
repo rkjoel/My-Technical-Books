@@ -10,3 +10,4 @@ This is Book Git Repository.
 7. The Data Warehouse Toolkit (3rd-Edition - Kimball) - (Ralph Kimball, Margy Ross)
 8. Data Engineering Design Patterns-2025-(Bartosz Konieczny)
 9. Kafka Definitive Guide Complete( NehaNarkhede, Gwen Shapira & Todd Palino)
+10. AI Engineering - Building Applications with Foundation Models (Chip Huyen - December 2025)
